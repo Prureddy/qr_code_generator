@@ -8,7 +8,7 @@ QR Code Generator is a simple web application that allows users to generate QR c
 
 ## Demo
 
-You can try out the QR Code Generator in action by visiting the [live demo]((https://prureddy.github.io/qr_code_generator/)).
+You can try out the QR Code Generator in action by visiting the [DEMO LINK](https://prureddy.github.io/qr_code_generator/).
 
 ## Features
 
